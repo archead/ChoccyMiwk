@@ -20,7 +20,7 @@ This script comes with two options:
 2. Run PowerShell as admin in the repo's directory
 2. Set the execution policy to Bypass: `Set-ExecutionPolicy Bypass -scope Process`
 2. Edit `packages.cfg`, use https://community.chocolatey.org/packages for reference
-2. Run `ChoccyMiwkLocal.ps1`
+2. Copy and Run `./ChoccyMiwkLocal.ps1`
 
 ### Online Option
 

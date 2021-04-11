@@ -12,4 +12,4 @@ If you are running this via the instructions below, please note that this will i
 
 1. Set the execution policy to Bypass: `Set-ExecutionPolicy Bypass -scope Process`
 
-1. Copy and Run: `iex ((New-Object System.Net.WebClient).DownloadString('https://github.com/archead/ChoccyMiwk/blob/main/ChoccyMiwk.ps1'))`
+1. Copy and Run: `iex ((New-Object System.Net.WebClient).DownloadString('https://github.com/archead/ChoccyMiwk/blob/main/ChoccyMiwkOnline.ps1'))`

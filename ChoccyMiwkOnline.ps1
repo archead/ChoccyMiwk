@@ -8,5 +8,5 @@ Write-Output "Done."
 
 #region Module 2 - Install Software
 Write-Output "Installing Chocolatey..."
-choco install -y steam notepadplusplus battle.net origin vscode 7zip mpv firefox discord spotify msiafterburner adobereader goggalaxy f.lux chocolateygui
+choco install -y steam notepadplusplus battle.net origin vscode 7zip mpv firefox discord spotify msiafterburner adobereader goggalaxy f.lux chocolateygui croc youtube-dl ffmpeg
 #endregion

@@ -21,8 +21,9 @@ This script comes with two options:
 1. Clone the repo
 1. Run PowerShell as admin in the repo's directory
 1. Set the execution policy to Bypass: `Set-ExecutionPolicy Bypass -scope Process`
-1. Edit `packages.cfg`, use https://community.chocolatey.org/packages for reference
-1. Copy and Run `./ChoccyMiwkLocal.ps1`
+2. 
+3. Edit `packages.cfg`, use https://community.chocolatey.org/packages for reference
+4. Copy and Run `./ChoccyMiwkLocal.ps1`
 
 ### Online Option
 

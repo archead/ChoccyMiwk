@@ -1,6 +1,6 @@
 # ChoccyMiwk
 
-A simple PowerShell Script that install all your needed application quickly using chocolatey
+A simple PowerShell Script that installs all your needed application quickly using chocolatey
 
 ## WARNING!!!
 

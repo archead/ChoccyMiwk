@@ -8,9 +8,24 @@ If you are running this via the instructions below, please note that this will i
 
 ## Usage
 
-1. Run PowerShell powershell as admin
+This script comes with two options:
+
+**Local Option** is recommended to users who want to have their own list of programs to download
+
+**Online Option** is recommended to users who are either me, or someone who uses the exact same software as me :^)
+
+### Local Option
+
+2. Clone the repo
+2. Run PowerShell as admin in the repo's directory
+2. Set the execution policy to Bypass: `Set-ExecutionPolicy Bypass -scope Process`
+2. Edit `packages.cfg`, use https://community.chocolatey.org/packages for reference
+2. Run `ChoccyMiwkLocal.ps1`
+
+### Online Option
+
+1. Run PowerShell as admin
 
 1. Set the execution policy to Bypass: `Set-ExecutionPolicy Bypass -scope Process`
 
-1. Copy and Run: `iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/archead/ChoccyMiwk/main/ChoccyMiwkOnline.ps1'))
-`
+1. Copy and Run: `iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/archead/ChoccyMiwk/main/ChoccyMiwkOnline.ps1'))`

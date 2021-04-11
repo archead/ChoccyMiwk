@@ -6,7 +6,7 @@ A simple PowerShell Script that installs all your needed application quickly usi
 
 If you are running this via the **Online Option** below, please note that this will install all the programs included in the `packages.cfg` file, if you wish to install your own custom list of programs, clone this repo and edit the list.
 
-Please note: although the script is made to scipt any human comfirmation when installing the programs, some programs might still ask for a confirmation, please keep on eye out for them!
+Please note: although the script is made to script any human comfirmation when installing the programs, some programs might still ask for a confirmation, please keep on eye out for them!
 
 ## Usage
 

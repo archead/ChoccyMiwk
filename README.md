@@ -21,12 +21,11 @@ This script comes with two options:
 1. Clone the repo
 1. Run PowerShell as admin in the repo's directory
 1. Set the execution policy to Bypass: `Set-ExecutionPolicy Bypass -scope Process`
-2. 
-3. Edit `packages.cfg`, use https://community.chocolatey.org/packages for reference
-4. Copy and Run `./ChoccyMiwkLocal.ps1`
+1. Edit `packages.cfg`, use https://community.chocolatey.org/packages for reference
+1. Copy and Run `./ChoccyMiwkLocal.ps1`
 
 ### Online Option
 
 1. Run PowerShell as admin
-1. Set the execution policy to Bypass: `Set-ExecutionPolicy Bypass -scope Process`s
+1. Set the execution policy to Bypass: `Set-ExecutionPolicy Bypass -scope Process`
 1. Copy and Run: `iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/archead/ChoccyMiwk/main/ChoccyMiwkOnline.ps1'))`

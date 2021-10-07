@@ -27,4 +27,6 @@ This script comes with two options:
 ### Online Option
 
 1. Run PowerShell as admin
-2. Copy and Run: `Set-ExecutionPolicy Bypass -scope Process; iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JwrhY'))`
+2. Copy and Run:
+
+        iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JwrhY'))

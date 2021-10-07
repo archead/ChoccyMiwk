@@ -27,5 +27,4 @@ This script comes with two options:
 ### Online Option
 
 1. Run PowerShell as admin
-1. Set the execution policy to Bypass: `Set-ExecutionPolicy Bypass -scope Process`
-1. Copy and Run: `iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/archead/ChoccyMiwk/main/ChoccyMiwkOnline.ps1'))`
+2. Copy and Run: `Set-ExecutionPolicy Bypass -scope Process; iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JwrhY'))`

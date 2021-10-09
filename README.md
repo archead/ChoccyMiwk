@@ -1,4 +1,4 @@
-# ChoccyMiwk 🍫🍼
+# ChocoMilk 🍫🍼
 
 A simple PowerShell Script that installs all your needed application quickly using chocolatey
 

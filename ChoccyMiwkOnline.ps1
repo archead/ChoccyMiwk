@@ -8,5 +8,5 @@ Write-Output "Done."
 
 #region Module 2 - Install Software
 Write-Output "Installing Packages..."
-choco install -y steam notepadplusplus battle.net vscode 7zip mpv firefox discord spotify adobereader goggalaxy f.lux chocolateygui croc youtube-dl ffmpeg rufus virtualbox microsoft-windows-terminal ds4windows windirstat epicgameslauncher jdownloader spotify
+choco install -y steam notepadplusplus battle.net vscode 7zip mpv firefox discord spotify adobereader goggalaxy f.lux croc youtube-dl ffmpeg rufus virtualbox microsoft-windows-terminal ds4windows windirstat epicgameslauncher jdownloader spotify obs-studio.install
 #endregion

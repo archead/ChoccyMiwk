@@ -16,6 +16,8 @@ This script comes with two options:
 
 **Online Option** is recommended to users who are either me, or someone who uses the exact same software as me :^)
 
+**Gaming Edition** is recommended to users who mainly play games on their machines.
+
 ### Local Option
 
 1. Clone the repo
@@ -30,3 +32,10 @@ This script comes with two options:
 2. Copy and Run:
 
         iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JwrhY'))
+        
+### Gaming Edition
+
+1. Run PowerShell as admin
+2. Copy and Run:
+
+        iex ((New-Object System.Net.WebClient).DownloadString('https://bit.ly/3wXY0Q4'))

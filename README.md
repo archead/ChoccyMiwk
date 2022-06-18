@@ -39,3 +39,7 @@ This script comes with two options:
 2. Copy and Run:
 
         iex ((New-Object System.Net.WebClient).DownloadString('https://bit.ly/3wXY0Q4'))
+## Honorable Mentions:
+A big inspiration and THE ultimate w10/11 tool that should be used along side ChocoMilk is [CTT's Debloater](https://christitus.com/windows-tool/)!
+
+(Future implementation coming Soon&trade;)
